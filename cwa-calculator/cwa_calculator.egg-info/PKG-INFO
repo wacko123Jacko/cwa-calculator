@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: cwa-calculator
+Version: 1.0.0
+Summary: A simple Python library for computing a student's Cumulative Weighted Average (CWA).
+Author: MLK
+Requires-Python: >=3.8
